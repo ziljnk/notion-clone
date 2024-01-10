@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704529850121,
+      "tag": "0000_burly_night_thrasher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704898676926,
+      "tag": "0001_secret_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704899707020,
+      "tag": "0002_previous_warstar",
+      "breakpoints": true
+    }
+  ]
+}
